@@ -18,4 +18,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ## About the app
 
 At the home page of the app, you can see the thumbnails of the videos, their titles and their descriptions which were fetched using an API. On the bottom of the page, you can see a 'Next Page' button, upon clicking this button, the next set of videos are displayed.
-The app is hosted on the following link: 
+The app is hosted on the following link: https://master--verdant-kelpie-e25a85.netlify.app/
