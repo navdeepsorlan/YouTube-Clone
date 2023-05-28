@@ -1,0 +1,17 @@
+*{
+     font-family: Roboto;
+}
+
+.main-icon{
+     height: 100px;
+     width: 178px;
+}
+
+img{
+     width: 300px;
+}
+
+.desc{
+     font-size: 14px;
+     text-align: justify;
+}
